@@ -1,0 +1,5 @@
+.idea/
+elasticsearch/data/
+.logs/
+.node_modules/
+yarn.lock

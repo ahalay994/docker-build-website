@@ -1,0 +1,11 @@
+#server:
+#  name: shop
+#  basePath: /kibana
+#  host: '0.0.0.0'
+#elasticsearch.url: 'http://localhost:9200'
+#xpack.security.enabled: false
+server.name: shop
+server.host: "0"
+elasticsearch.hosts: [ "http://elasticsearch:9200" ]
+xpack.security.enabled: false
+#enterpriseSearch.host: 'http://localhost:80'
